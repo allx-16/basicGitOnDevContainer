@@ -139,6 +139,10 @@ git commit
 
 **Actividad:** en `mejora-instrucciones`, agrega una aclaración breve al README. Después integra la rama en `main` y comprueba el historial con `git log --oneline --all --decorate`.
 
+## Descripción de la práctica
+
+En esta práctica aprendí a utilizar diferentes comandos de Git para administrar un proyecto. Realicé commits, creé una rama, hice modificaciones.
+
 - [x] Creé la rama `mejora-instrucciones`.
 - [x] Creé un commit dentro de esa rama.
 - [x] Regresé a `main` y combiné la rama con `git merge`.
