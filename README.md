@@ -172,6 +172,8 @@ Antes de usar `push` o `pull`, confirma que tienes permiso de acceso y que sabes
 
 **Actividad:** no ejecutes `push` sobre un repositorio ajeno sin autorización. Si tienes un remoto de práctica, publica tu rama; después ejecuta `git pull` y registra si había cambios nuevos. Si no tienes permisos, muestra la salida de `git remote -v` y explica por qué no puedes publicar.
 
+El repositorio remoto está configurado en origin, pero no tengo permisos de escritura sobre el repositorio de la clase , por lo que no puedo realizar un git push.
+
 - [x] Revisé el remoto y las ramas disponibles.
 - [x] Intenté o realicé un `push` con autorización.
 - [x] Ejecuté `git pull` y comprendí su resultado.
