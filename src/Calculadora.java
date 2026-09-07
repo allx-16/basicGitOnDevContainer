@@ -6,5 +6,7 @@ public class Calculadora {
         System.out.println("Suma: " + (primerNumero + segundoNumero));
         System.out.println("Resta: " + (primerNumero - segundoNumero));
         System.out.println("Multiplicación: " + (primerNumero * segundoNumero));
+        System.out.println("Division: " + (primerNumero/segundoNumero));
+
     }
 }
